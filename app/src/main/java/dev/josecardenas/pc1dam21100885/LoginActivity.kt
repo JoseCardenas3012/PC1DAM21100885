@@ -21,7 +21,7 @@ class LoginActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
-        title = "Sign In"
+        title = "Sign In" //ok
 
         val emailSuccess: String = " invitado@android.com"
         val passwordSuccess: String = "invitado123"
